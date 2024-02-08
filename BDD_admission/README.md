@@ -1,7 +1,7 @@
 
-1-- procédure de mise en place du site en local et initialisation de la base de donnée
+#1-- procédure de mise en place du site en local et initialisation de la base de donnée
 
-Tout d'abbord assurez vous d'avoir Laragon d'installer sur votre poste personnel ou bien un serveur local autre (homestead, mamp) ainsi qu'un système de gestion de base de donné mySQL (phpmyadmin par exemple). si ce n'est pas le cas, cliquez sur le liens suivant : https://github.com/leokhoa/laragon/releases/download/6.0.0/laragon-wamp.exe pour télécharger Laragon et ainsi pouvoir avoir accès à un serveur local pour pouvoir ouvrir la page web et créer la base de donnés relative à cette page.
+##Tout d'abbord assurez vous d'avoir Laragon d'installer sur votre poste personnel ou bien un serveur local autre (homestead, mamp) ainsi qu'un système de gestion ##de base de donné mySQL (phpmyadmin par exemple). si ce n'est pas le cas, cliquez sur le liens suivant : ##https://github.com/leokhoa/laragon/releases/download/6.0.0/laragon-wamp.exe pour télécharger Laragon et ainsi pouvoir avoir accès à un serveur local pour pouvoir ##ouvrir la page web et créer la base de donnés relative à cette page.
 
 Une fois Laragon installé, il va nous falloir executer quelques actions pour installer l'interpreteur Php, un serveur Local pour héberger l'application web et un système de gestion de base de données, heureusement pour nous, sur Laragon, en quelques clics ce sera fait ! 
 
